@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/rohitkumard/static/css/main.28519464.chunk.css",
+    "main.js": "/rohitkumard/static/js/main.fa4d5953.chunk.js",
+    "main.js.map": "/rohitkumard/static/js/main.fa4d5953.chunk.js.map",
+    "runtime-main.js": "/rohitkumard/static/js/runtime-main.ef79d054.js",
+    "runtime-main.js.map": "/rohitkumard/static/js/runtime-main.ef79d054.js.map",
+    "static/js/2.d41489aa.chunk.js": "/rohitkumard/static/js/2.d41489aa.chunk.js",
+    "static/js/2.d41489aa.chunk.js.map": "/rohitkumard/static/js/2.d41489aa.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/rohitkumard/static/css/3.df879eac.chunk.css",
+    "static/js/3.3be6c379.chunk.js": "/rohitkumard/static/js/3.3be6c379.chunk.js",
+    "static/js/3.3be6c379.chunk.js.map": "/rohitkumard/static/js/3.3be6c379.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/rohitkumard/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.22f51896.chunk.js": "/rohitkumard/static/js/4.22f51896.chunk.js",
+    "static/js/4.22f51896.chunk.js.map": "/rohitkumard/static/js/4.22f51896.chunk.js.map",
+    "index.html": "/rohitkumard/index.html",
+    "precache-manifest.1c7adf1711706433d3831c78b6922bcc.js": "/rohitkumard/precache-manifest.1c7adf1711706433d3831c78b6922bcc.js",
+    "service-worker.js": "/rohitkumard/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/rohitkumard/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/rohitkumard/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.28519464.chunk.css.map": "/rohitkumard/static/css/main.28519464.chunk.css.map",
+    "static/js/2.d41489aa.chunk.js.LICENSE.txt": "/rohitkumard/static/js/2.d41489aa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rohitkumard/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/GPM.png": "/rohitkumard/static/media/GPM.2c5590a4.png",
+    "static/media/N. G. Acharya & D. K. Marathe College.png": "/rohitkumard/static/media/N. G. Acharya & D. K. Marathe College.f69bce8a.png",
+    "static/media/contactMailDark.svg": "/rohitkumard/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/rohitkumard/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/rohitkumard/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/rohitkumard/static/media/skill.34409398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef79d054.js",
+    "static/js/2.d41489aa.chunk.js",
+    "static/css/main.28519464.chunk.css",
+    "static/js/main.fa4d5953.chunk.js"
+  ]
+}
